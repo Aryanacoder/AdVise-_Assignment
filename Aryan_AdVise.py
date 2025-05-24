@@ -19,11 +19,7 @@ from datetime import datetime
 #######################################################################################
 # AdVise Keyword Extraction System
 # Developed by: Aryan
-# This system was developed during a 48-hour hackathon to identify commercial 
-# opportunities in conversations through advanced NLP techniques. The goal was to
-# create a system that could analyze conversations, extract key topics, detect
-# commercial intent, and match them to relevant product categories.
-#
+
 # Key Components:
 # 1. Topic Extraction - Using SpaCy, NLTK, and custom algorithms to identify the
 #    most important topics and phrases in the conversation
